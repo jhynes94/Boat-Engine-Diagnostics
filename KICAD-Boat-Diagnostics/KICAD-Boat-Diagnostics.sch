@@ -1,0 +1,31 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ESP32-WROOM-32E__16MB_:ESP32-WROOM-32E_(16MB) U1
+U 1 1 5FD4572C
+P 5150 3150
+F 0 "U1" H 5150 4617 50  0000 C CNN
+F 1 "ESP32-WROOM-32E_(16MB)" H 5150 4526 50  0000 C CNN
+F 2 "MODULE_ESP32-WROOM-32E_(16MB)" H 5150 3150 50  0001 L BNN
+F 3 "" H 5150 3150 50  0001 L BNN
+F 4 "Espressif Systems" H 5150 3150 50  0001 L BNN "MANUFACTURER"
+F 5 "3.25mm" H 5150 3150 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F 6 "Manufacturer Recommendations" H 5150 3150 50  0001 L BNN "STANDARD"
+F 7 "1.1" H 5150 3150 50  0001 L BNN "PARTREV"
+	1    5150 3150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
