@@ -1,0 +1,12 @@
+Reference, Quantity, Value, Footprint, Datasheet, DigiKey PN, Manf PN
+C1 ,1,"10uF","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","1276-1804-1-ND ",""
+C2 ,1,"1uF","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~"
+C3 ,1,"0.1uF","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","311-1343-1-ND",""
+C4 ,1,"22uF","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","1276-3299-1-ND",""
+D1 ,1,"LED","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","160-1446-1-ND",""
+J1 ,1,"Conn_ARM_JTAG_SWD_10","Library-for-Components:ARM Cortex JTAG SWD 10pin Connector","http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf","SAM13164CT-ND","FTSH-105-01-L-DV-K-P-TR"
+J2 ,1,"Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+R1 ,1,"68","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","311-68.0HRCT-ND",""
+R2 ,1,"10K","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
+U1 ,1,"ESP32-WROOM-32D","RF_Module:ESP32-WROOM-32","https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf"
+U2 ,1,"MIC5239-3.3YS-TR","Library-for-Components:MIC5239-3.3YS-TR","","MIC5239-3.3YS-DKR-ND",""
